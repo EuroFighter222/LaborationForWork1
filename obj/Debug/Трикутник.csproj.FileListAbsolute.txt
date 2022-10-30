@@ -1,0 +1,7 @@
+D:\Project\Visual Studio\Трикутник\bin\Debug\Трикутник.exe.config
+D:\Project\Visual Studio\Трикутник\bin\Debug\Трикутник.exe
+D:\Project\Visual Studio\Трикутник\bin\Debug\Трикутник.pdb
+D:\Project\Visual Studio\Трикутник\obj\Debug\Трикутник.csprojAssemblyReference.cache
+D:\Project\Visual Studio\Трикутник\obj\Debug\Трикутник.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\Трикутник\obj\Debug\Трикутник.exe
+D:\Project\Visual Studio\Трикутник\obj\Debug\Трикутник.pdb
